@@ -207,7 +207,15 @@ async def song_download_cb(client, callback_query: CallbackQuery, _) :
     stype, format_id, vidid = callback_request.split("|")
     mystic = await callback_query.edit_message_text(_["song_8"])
     yturl = f"https://www.youtube.com/watch?v={vidid}"
-    with yt_dlp.YoutubeDL({"quiet": True}) as ytdl:
+    cookie_file_path = "\cookies\cookies.txt"
+
+    ydl_opts = {
+        "quiet": True,
+        "cookiefile": cookie_file_path,
+        # optionally, you can add other parameters like 'nocheckcertificate': True
+    }
+
+    with yt_dlp.YoutubeDL(ydl_opts) as ytdl:
         x = ytdl.extract_info(yturl, download=False)
     title = (x["title"]).title()
     title = re.sub("\W+", " ", title)
