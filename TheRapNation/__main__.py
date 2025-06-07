@@ -54,12 +54,12 @@ async def init():
         pass
     await Hotty.decorators()
     LOGGER("TheRapNation").info(
-        "ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @learningbots79 ᴊᴏɪɴ @LB_Music_Bot , @learning_bots ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
+        "ᴊᴏɪɴ @The_Rap_Nation , @eccentricexplorer ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("TheRapNation").info("Stopping Brandrd Music Bot...")
+    LOGGER("TheRapNation").info("Stopping The Bot...")
 
 
 if __name__ == "__main__":
