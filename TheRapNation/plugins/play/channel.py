@@ -7,7 +7,6 @@ from TheRapNation.utils.database import set_cmode
 from TheRapNation.utils.decorators.admins import AdminActual
 from config import BANNED_USERS
 
-
 @app.on_message(filters.command(["channelplay"]) & filters.group & ~BANNED_USERS)
 @AdminActual
 async def playmode_(client, message: Message, _):

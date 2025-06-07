@@ -3,7 +3,7 @@ from pyrogram.types import Message
 from TheRapNation import app
 from pyrogram import *
 from pyrogram.types import *
-from config import OWNER_ID
+from config import OWNER_ID, CUSTOM_SEARCH_CX, GOOGLE_API_KEY
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.raw.functions.phone import CreateGroupCall, DiscardGroupCall
 from pyrogram.raw.types import InputGroupCall
@@ -77,7 +77,7 @@ async def search(event):
     async with aiohttp.ClientSession() as session:
         start = 1
         async with session.get(
-            f"https://content-customsearch.googleapis.com/customsearch/v1?cx=ec8db9e1f9e41e65e&q={event.text.split()[1]}&key=AIzaSyAa8yy0GdcGPHdtD083HiGGx_S0vMPScDM&start={start}",
+            f"https://content-customsearch.googleapis.com/customsearch/v1?cx={CUSTOM_SEARCH_CX}&q={event.text.split()[1]}&key={GOOGLE_API_KEY}",
             headers={"x-referer": "https://explorer.apis.google.com"},
         ) as r:
             response = await r.json()

@@ -34,6 +34,9 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
+CUSTOM_SEARCH_CX = getenv("CUSTOM_SEARCH_CX")
+GOOGLE_API_KEY = getenv("GOOGLE_API_KEY")
+
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/eccentriccoder01/TheRapNation",
@@ -43,8 +46,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TheRapNation")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TheRapNation_Support")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/the_rap_nation")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/therapnation_Support")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))

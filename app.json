@@ -1,7 +1,7 @@
 {
-    "name": "⛦ 𝐁𝐫𝐚𝐧𝐝𝐫𝐝 𝐗 𝐌𝐮𝐬𝐢𝐜 ⛦",
+    "name": "⛦ 𝐓𝐡𝐞 𝐑𝐚𝐩 𝐍𝐚𝐭𝐢𝐨𝐧 | 𝟗𝟎𝐬 𝐇𝐢𝐩-𝐇𝐨𝐩 🎤 ⛦",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/62fa7c81c56c1ae31c844.jpg",
+    "logo": "https://i.pinimg.com/1200x/fd/8c/88/fd8c888ec4d2a4a5ebad3f6257084792.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -38,7 +38,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
+        "description": "A Pyrogram v2 String Session from @StringsRobot on Telegram.",
         "value": "",
         "required": true
       },

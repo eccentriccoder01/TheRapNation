@@ -26,4 +26,4 @@ async def logger(client, message, _):
 @language
 async def logger(client, message, _):
     await message.reply_document("cookies/logs.csv")
-    await message.reply_text("Please check given file to cookies file choosing logs...")
+    await message.reply_text("Please check the attached file for cookie selection logs...")

@@ -8,27 +8,27 @@ from TheRapNation.utils.branded_ban import admin_filter
 
 
 branded_text = [
-    "hey please don't disturb me.",
-    "who are you",
-    "aap kon ho",
-    "aap mere owner to nhi lgte ",
-    "hey tum mera name kyu le rhe ho meko sone do",
-    "ha bolo kya kaam hai ",
-    "dekho abhi mai busy hu ",
-    "hey i am busy",
-    "aapko smj nhi aata kya ",
-    "leave me alone",
-    "dude what happend",
+    "Hey, please don't disturb me!",
+    "Who are you?",
+    "Aap kaun ho?",
+    "Aap mere Owner to nhi lgte...",
+    "Hey, tum mera name kyu le rhe ho merko sone do...",
+    "Ha bolo kya kaam hai!",
+    "Dekho, abhi mai busy hu!",
+    "Hey, I'm busy!",
+    "Aapko samajh nhi aata kya?!",
+    "Leave me alone!",
+    "Dude! What has happened??",
 ]
 
 strict_txt = [
-    "i can't restrict  my besties",
-    "are you serious i can not restrict my friends",
-    "fuck you bsdk mai apne dosto ko kyu kru",
-    "hey stupid admin ",
-    "ha ye phele krlo maar lo ek dusre ki gwaand",
-    "i can't, the user is my close friend",
-    "i love this user please don't restrict this user try to understand ",
+    "I can't restrict my besties!",
+    "Are you serious? I can't restrict my friends!",
+    "SHUT THE HELL UP, mai apne dosto ko kyu kru!",
+    "Hey, stupid admin!",
+    "Ha ye pehele krlo, maar lo ek dusre ke takle par!",
+    "I can't, the user is my close friend...",
+    "I love this user, please don't restrict this user, try to understand...",
 ]
 
 
@@ -67,14 +67,14 @@ async def restriction_app(client: Client, message):
                 else:
                     await client.ban_chat_member(chat_id, user_id)
                     await message.reply(
-                        "OK, Ban kar diya madarchod ko sala Chutiya tha !"
+                        "OK, I've banned this Dumb Alien!"
                     )
 
         for unbanned in data:
             print(f"present {unbanned}")
             if unbanned in unban:
                 await client.unban_chat_member(chat_id, user_id)
-                await message.reply(f"Ok, aap bolte hai to unban kar diya")
+                await message.reply(f"Ok, aap bolte hai to unban kar diya!")
 
         for kicked in data:
             print(f"present {kicked}")
@@ -85,7 +85,7 @@ async def restriction_app(client: Client, message):
                 else:
                     await client.ban_chat_member(chat_id, user_id)
                     await client.unban_chat_member(chat_id, user_id)
-                    await message.reply("get lost! bhga diya bhosdi wale ko")
+                    await message.reply("Get lost! Bhaga diya gadhe ko...")
 
         for muted in data:
             print(f"present {muted}")
@@ -96,14 +96,14 @@ async def restriction_app(client: Client, message):
                 else:
                     permissions = ChatPermissions(can_send_messages=False)
                     await message.chat.restrict_member(user_id, permissions)
-                    await message.reply(f"Muted successfully! Disgusting people.")
+                    await message.reply(f"Muted successfully! Disgusting people...")
 
         for unmuted in data:
             print(f"present {unmuted}")
             if unmuted in unmute:
                 permissions = ChatPermissions(can_send_messages=True)
                 await message.chat.restrict_member(user_id, permissions)
-                await message.reply(f"Huh, OK, sir!")
+                await message.reply(f"Huh, OK, Sir!")
 
         for promoted in data:
             print(f"present {promoted}")
@@ -122,7 +122,7 @@ async def restriction_app(client: Client, message):
                         can_manage_video_chats=True,
                     ),
                 )
-                await message.reply("promoted !")
+                await message.reply("Promoted!")
 
         for demoted in data:
             print(f"present {demoted}")
@@ -141,4 +141,4 @@ async def restriction_app(client: Client, message):
                         can_manage_video_chats=False,
                     ),
                 )
-                await message.reply("demoted !")
+                await message.reply("Demoted!")
