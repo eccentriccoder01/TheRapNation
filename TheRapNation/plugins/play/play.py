@@ -62,6 +62,14 @@ async def play_commnd(
     spotify = None
     user_id = message.from_user.id
     user_name = message.from_user.first_name
+    
+    details = None
+    track_id = None
+    img = None
+    cap = None
+    streamtype = None
+    query = None # Initialize query as well, as it's used later
+
     audio_telegram = (
         (message.reply_to_message.audio or message.reply_to_message.voice)
         if message.reply_to_message
