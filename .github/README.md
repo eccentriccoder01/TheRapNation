@@ -30,19 +30,19 @@ Okay, aiming for maximum conciseness while covering all bases in a single sectio
 
 ## Comprehensive Overview
 
-TRN Music Bot is the most advanced Telegram bot crafted for seamless music streaming and chat management, driven by a modern Python stack, totally for free.
+[˹ᴛʀɴ ꭙ ᴍᴜꜱɪᴄ˼ ♪](https://t.me/TheRapNationBot) ɪꜱ ᴛʜᴇ ᴍᴏꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴄʀᴀꜰᴛᴇᴅ ꜰᴏʀ ꜱᴇᴀᴍʟᴇꜱꜱ ᴍᴜꜱɪᴄ ꜱᴛʀᴇᴀᴍɪɴɢ ᴀɴᴅ ᴄʜᴀᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ, ᴅʀɪᴠᴇɴ ʙʏ ᴀ ᴍᴏᴅᴇʀɴ ᴘʏᴛʜᴏɴ ꜱᴛᴀᴄᴋ, ᴛᴏᴛᴀʟʟʏ ꜰᴏʀ ꜰʀᴇᴇ.
 
-* **Dynamic Media Playback:** Offers multi-platform music and video streaming in both group and channel voice chats, with full controls including queuing, skipping, shuffling, looping, seeking, and personalised playlists.
-* **Rich Content Features:** Downloads audio/video, fetches lyrics, and retrieves content from services like Instagram (Reels) and YouTube (Shorts). (Currently Under Maintenance)
-* **Advanced Chat Management:** Facilitates mass user tagging, granular user authorisation, chat blacklisting/whitelisting, user/chat blocking, global banning, and automated welcome messages.
-* **Powerful Bot Administration:** Enables streamlined bot updates, system command execution, detailed logging, mass broadcasting, bot cloning, and comprehensive maintenance controls for owners.
-* **Essential Utilities:** Includes features for AFK status, bot performance monitoring, content uploading to external hosts, multi-language support, and interactive elements.
-* **Robust Technology:** Built with Python, leveraging a MongoDB database, and integrating advanced libraries for Telegram API interaction, voice chat capabilities, external service integrations (streaming, AI, translation), all supporting containerised deployment.
+* 🎵 **ᴅʏɴᴀᴍɪᴄ ᴍᴇᴅɪᴀ ᴘʟᴀʏʙᴀᴄᴋ**: ᴏꜰꜰᴇʀꜱ ᴍᴜʟᴛɪ-ᴘʟᴀᴛꜰᴏʀᴍ ᴍᴜꜱɪᴄ ᴀɴᴅ ᴠɪᴅᴇᴏ ꜱᴛʀᴇᴀᴍɪɴɢ ɪɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴄʜᴀɴɴᴇʟ ᴠᴏɪᴄᴇ ᴄʜᴀᴛꜱ, ᴡɪᴛʜ ꜰᴜʟʟ ᴄᴏɴᴛʀᴏʟꜱ ɪɴᴄʟᴜᴅɪɴɢ Qᴜᴇᴜɪɴɢ, ꜱᴋɪᴘᴘɪɴɢ, ꜱʜᴜꜰꜰʟɪɴɢ, ʟᴏᴏᴘɪɴɢ, ꜱᴇᴇᴋɪɴɢ, ᴀɴᴅ ᴘᴇʀꜱᴏɴᴀʟɪꜱᴇᴅ ᴘʟᴀʏʟɪꜱᴛꜱ.
+* 🎬 **ʀɪᴄʜ ᴄᴏɴᴛᴇɴᴛ ꜰᴇᴀᴛᴜʀᴇꜱ**: ᴅᴏᴡɴʟᴏᴀᴅꜱ ᴀᴜᴅɪᴏ/ᴠɪᴅᴇᴏ, ꜰᴇᴛᴄʜᴇꜱ ʟʏʀɪᴄꜱ, ᴀɴᴅ ʀᴇᴛʀɪᴇᴠᴇꜱ ᴄᴏɴᴛᴇɴᴛ ꜰʀᴏᴍ ꜱᴇʀᴠɪᴄᴇꜱ ʟɪᴋᴇ ɪɴꜱᴛᴀɢʀᴀᴍ (ʀᴇᴇʟꜱ) ᴀɴᴅ ʏᴏᴜᴛᴜʙᴇ (ꜱʜᴏʀᴛꜱ). (ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴅᴇʀ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ)
+* 👥 **ᴀᴅᴠᴀɴᴄᴇᴅ ᴄʜᴀᴛ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ**: ꜰᴀᴄɪʟɪᴛᴀᴛᴇꜱ ᴍᴀꜱꜱ ᴜꜱᴇʀ ᴛᴀɢɢɪɴɢ, ɢʀᴀɴᴜʟᴀʀ ᴜꜱᴇʀ ᴀᴜᴛʜᴏʀɪꜱᴀᴛɪᴏɴ, ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪꜱᴛɪɴɢ/ᴡʜɪᴛᴇʟɪꜱᴛɪɴɢ, ᴜꜱᴇʀ/ᴄʜᴀᴛ ʙʟᴏᴄᴋɪɴɢ, ɢʟᴏʙᴀʟ ʙᴀɴɴɪɴɢ, ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇꜱ.
+* ⚙️ **ᴘᴏᴡᴇʀꜰᴜʟ ʙᴏᴛ ᴀᴅᴍɪɴɪꜱᴛʀᴀᴛɪᴏɴ**: ᴇɴᴀʙʟᴇꜱ ꜱᴛʀᴇᴀᴍʟɪɴᴇᴅ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇꜱ, ꜱʏꜱᴛᴇᴍ ᴄᴏᴍᴍᴀɴᴅ ᴇxᴇᴄᴜᴛɪᴏɴ, ᴅᴇᴛᴀɪʟᴇᴅ ʟᴏɢɢɪɴɢ, ᴍᴀꜱꜱ ʙʀᴏᴀᴅᴄᴀꜱᴛɪɴɢ, ʙᴏᴛ ᴄʟᴏɴɪɴɢ, ᴀɴᴅ ᴄᴏᴍᴘʀᴇʜᴇɴꜱɪᴠᴇ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ᴄᴏɴᴛʀᴏʟꜱ ꜰᴏʀ ᴏᴡɴᴇʀꜱ.
+* 🛠️ **ᴇꜱꜱᴇɴᴛɪᴀʟ ᴜᴛɪʟɪᴛɪᴇꜱ**: ɪɴᴄʟᴜᴅᴇꜱ ꜰᴇᴀᴛᴜʀᴇꜱ ꜰᴏʀ ᴀꜰᴋ ꜱᴛᴀᴛᴜꜱ, ʙᴏᴛ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ ᴍᴏɴɪᴛᴏʀɪɴɢ, ᴄᴏɴᴛᴇɴᴛ ᴜᴘʟᴏᴀᴅɪɴɢ ᴛᴏ ᴇxᴛᴇʀɴᴀʟ ʜᴏꜱᴛꜱ, ᴍᴜʟᴛɪ-ʟᴀɴɢᴜᴀɢᴇ ꜱᴜᴘᴘᴏʀᴛ, ᴀɴᴅ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴇʟᴇᴍᴇɴᴛꜱ.
+* 🐍 **ʀᴏʙᴜꜱᴛ ᴛᴇᴄʜɴᴏʟᴏɢʏ**: ʙᴜɪʟᴛ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ, ʟᴇᴠᴇʀᴀɢɪɴɢ ᴀ ᴍᴏɴɢᴏᴅʙ ᴅᴀᴛᴀʙᴀꜱᴇ, ᴀɴᴅ ɪɴᴛᴇɢʀᴀᴛɪɴɢ ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪʙʀᴀʀɪᴇꜱ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴ, ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴄᴀᴘᴀʙɪʟɪᴛɪᴇꜱ, ᴇxᴛᴇʀɴᴀʟ ꜱᴇʀᴠɪᴄᴇ ɪɴᴛᴇɢʀᴀᴛɪᴏɴꜱ (ꜱᴛʀᴇᴀᴍɪɴɢ, ᴀɪ, ᴛʀᴀɴꜱʟᴀᴛɪᴏɴ), ᴀʟʟ ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴄᴏɴᴛᴀɪɴᴇʀɪꜱᴇᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ.
 
-Refer to the article for detailed description and all commands:
-[TRN Music - Your Ultimate Telegram Music & Utility Companion]( https://telegra.ph/TRN-Music---Your-Ultimate-Telegram-Music--Utility-Companion-06-08)
+ʀᴇꜰᴇʀ ᴛᴏ ᴛʜᴇ ᴀʀᴛɪᴄʟᴇ ꜰᴏʀ ᴅᴇᴛᴀɪʟᴇᴅ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ ᴀɴᴅ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ:
+[ᴛʀɴ ᴍᴜꜱɪᴄ - ʏᴏᴜʀ ᴜʟᴛɪᴍᴀᴛᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜꜱɪᴄ & ᴜᴛɪʟɪᴛʏ ᴄᴏᴍᴘᴀɴɪᴏɴ]( https://telegra.ph/TRN-Music---Your-Ultimate-Telegram-Music--Utility-Companion-06-08)
 
-Add t.me/TheRapNationBot to your Telegram Groups 🎶
+ᴀᴅᴅ [ᴛʜᴇ ʀᴀᴘ ɴᴀᴛɪᴏɴ ʙᴏᴛ](https://t.me/TheRapNationBot) ᴛᴏ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘꜱ 🎶
 
 ---
 

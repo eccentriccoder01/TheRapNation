@@ -31,11 +31,11 @@ import random
 import asyncio
 
 random_photo = [
-    "https://graph.org/file/eabab7e8a3e5df87a0b04.jpg",
-    "https://graph.org/file/84956a27b8f85c90d5545.jpg",
-    "https://graph.org/file/e1c47b075db35d5c1ec7a.jpg",
-    "https://graph.org/file/872dc8af2a36bed43b9b6.jpg",
-    "https://graph.org/file/427f4869a158126957747.jpg",
+    "https://i.pinimg.com/1200x/f4/90/be/f490be95f4fe140f8d88b6023fec45f5.jpg",
+    "https://i.pinimg.com/736x/eb/43/12/eb431220cf59fc194e40484fc798ab84.jpg",
+    "https://i.pinimg.com/736x/b2/c6/81/b2c681a64cc4b291d2aba82390489a86.jpg",
+    "https://i.pinimg.com/1200x/c6/f0/96/c6f096e1c95e9c836acd80a085a65d87.jpg",
+    "https://i.pinimg.com/736x/6b/d7/e1/6bd7e1bda9a7a7fe507a4afb182dfa48.jpg",
 ]
 
 bg_path = "TheRapNation/assets/userinfo.png"

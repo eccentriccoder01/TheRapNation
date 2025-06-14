@@ -35,7 +35,7 @@ from TheRapNation.utils.database import get_assistant, is_active_chat
 @Client.on_message(filters.command("repo") & filters.group)
 async def repo(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/cc290ee58069d09a1ade7.jpg",
+        photo=f"https://i.pinimg.com/736x/1b/3b/9c/1b3b9c21929feb288b293d294935695f.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -53,7 +53,7 @@ async def repo(client: Client, message: Message):
 async def help(client: Client, message: Message):
 
     await message.reply_photo(
-        photo=f"https://graph.org/file/cc290ee58069d09a1ade7.jpg",
+        photo=f"https://i.pinimg.com/736x/1b/3b/9c/1b3b9c21929feb288b293d294935695f.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -70,7 +70,7 @@ async def help(client: Client, message: Message):
 @Client.on_message(filters.command("repo") & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-         photo=f"https://graph.org/file/cc290ee58069d09a1ade7.jpg",
+         photo=f"https://i.pinimg.com/736x/1b/3b/9c/1b3b9c21929feb288b293d294935695f.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰""",
         reply_markup=InlineKeyboardMarkup(
             [

@@ -17,11 +17,11 @@ from TheRapNation.utils.database import get_assistant
 
 
 photo = [
-    "https://te.legra.ph/file/758a5cf4598f061f25963.jpg",
-    "https://te.legra.ph/file/30a1dc870bd1a485e3567.jpg",
-    "https://te.legra.ph/file/d585beb2a6b3f553299d2.jpg",
-    "https://te.legra.ph/file/7df9e128dd261de2afd6b.jpg",
-    "https://te.legra.ph/file/f60ebb75ad6f2786efa4e.jpg",
+    "https://i.pinimg.com/736x/39/af/f1/39aff107bb96327d095825fb6d885dca.jpg",
+    "https://i.pinimg.com/736x/c6/f8/b2/c6f8b2c6eecdd612f0c007e9ec19d979.jpg",
+    "https://i.pinimg.com/736x/23/1e/49/231e4932c2ab76d207403e9b9252cc1f.jpg",
+    "https://i.pinimg.com/736x/1f/e7/99/1fe79943f99b8c37ca9fe0b70e06d8fb.jpg",
+    "https://i.pinimg.com/736x/69/85/ce/6985ce076e87a761b829cf7460879e24.jpg",
 ]
 
 

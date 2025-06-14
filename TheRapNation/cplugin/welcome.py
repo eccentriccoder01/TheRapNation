@@ -42,11 +42,11 @@ from logging import getLogger
 
 
 random_photo = [
-    "https://graph.org/file/e36ca3c73f08d4c04b9b6.jpg",
-    "https://graph.org/file/970955ce30672302943c1.jpg",
-    "https://graph.org/file/e38d003cff04e6dffb5b2.jpg",
-    "https://graph.org/file/98f6187aa4d3d3954ccdc.jpg",
-    "https://graph.org/file/f4b34351a59061ba1c61b.jpg",
+    "https://i.pinimg.com/736x/9b/d2/37/9bd2373fbc033c594473e51ebe0084e6.jpg",
+    "https://i.pinimg.com/736x/f9/c1/36/f9c136625a0a951f96962c14fab5ed14.jpg",
+    "https://i.pinimg.com/736x/27/92/26/279226b9d7700f1daf4bba47da5abfd9.jpg",
+    "https://i.pinimg.com/1200x/08/c4/5c/08c45c4751af0bdfebbafa6af9a5663f.jpg",
+    "https://i.pinimg.com/736x/56/5c/21/565c21f25a4fd6468e8a3aff1bb341a7.jpg",
 ]
 # --------------------------------------------------------------------------------- #
 

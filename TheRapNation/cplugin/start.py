@@ -40,9 +40,9 @@ SPAM_WINDOW_SECONDS = 5
 
 
 YUMI_PICS = [
-    "https://graph.org/file/f076ff205c6ce6c554b25.jpg",
-    "https://graph.org/file/de80d107a62ce5c987ce8.jpg",
-    "https://graph.org/file/fc1caf40a0be6d3560e3a.jpg",
+    "https://i.pinimg.com/1200x/11/6a/5d/116a5dbf18c1a65510eaa83db388c06f.jpg",
+    "https://i.pinimg.com/736x/89/06/b4/8906b4ce14c11e8cbd6f9eee2fadc176.jpg",
+    "https://i.pinimg.com/736x/39/ba/a6/39baa685fd7d700d8ac7a99408c14472.jpg",
 ]
 
 
