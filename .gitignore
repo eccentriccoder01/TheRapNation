@@ -8,3 +8,4 @@ cache/
 downloads/
 __pycache__/
 *.session-journal
+extract_bot_commands.py
