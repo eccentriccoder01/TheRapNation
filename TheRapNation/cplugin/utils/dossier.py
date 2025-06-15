@@ -11,7 +11,7 @@ PM_START_TEXT = """
 <b>๏ ᴄʟɪᴄᴋ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴠɪᴇᴡ ᴀʟʟ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.</b>
 
 ʀᴇᴀᴅ ᴛʜᴇ ᴀʀᴛɪᴄʟᴇ ғᴏʀ ᴅᴇᴛᴀɪʟs:
-<a href="https://telegra.ph/TRN-Music---Your-Ultimate-Telegram-Music--Utility-Companion-06-08">ᴛʀɴ ᴍᴜꜱɪᴄ - ᴜʟᴛɪᴍᴀᴛᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜꜱɪᴄ & ᴜᴛɪʟɪᴛʏ ᴄᴏᴍᴘᴀɴɪᴏɴ</a>
+telegra.ph/TRN-Music---Your-Ultimate-Telegram-Music--Utility-Companion-06-08
 """
 
 START_TEXT = """
