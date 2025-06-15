@@ -11,7 +11,7 @@ PM_START_TEXT = """
 <b>๏ ᴄʟɪᴄᴋ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴠɪᴇᴡ ᴀʟʟ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.</b>
 
 ʀᴇᴀᴅ ᴛʜᴇ ᴀʀᴛɪᴄʟᴇ ғᴏʀ ᴅᴇᴛᴀɪʟs:
-telegra.ph/TRN-Music---Your-Ultimate-Telegram-Music--Utility-Companion-06-08
+tinysl.net/TRNStreamer (Use VPN if it doesn't open)
 """
 
 START_TEXT = """
