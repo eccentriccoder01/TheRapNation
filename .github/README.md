@@ -108,3 +108,37 @@ Okay, aiming for maximum conciseness while covering all bases in a single sectio
 <p align="center">
 <a href="https://t.me/the_rap_nation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+
+---
+
+## Issue Creation ✴
+Report bugs and  issues or propose improvements through our GitHub repository.
+
+## Contribution Guidelines 📑
+
+- Firstly Star(⭐) the Repository
+- Fork the Repository and create a new branch for any updates/changes/issue you are working on.
+- Start Coding and do changes.
+- Commit your changes
+- Create a Pull Request which will be reviewed and suggestions would be added to improve it.
+- Add Screenshots and updated website links to help us understand what changes is all about.
+
+- Check the [CONTRIBUTING.md](CONTRIBUTING.md) for detailed steps...
+
+    
+## Contributing is fun🧡
+
+We welcome all contributions and suggestions!
+Whether it's a new feature, design improvement, or a bug fix — your voice matters 💜
+
+Your insights are invaluable to us. Reach out to us team for any inquiries, feedback, or concerns.
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+## 📞 Contact
+
+Developed by [Eccentric Explorer](https://eccentriccoder01.github.io/Me)
+
+Feel free to reach out with any questions or feedback\!
